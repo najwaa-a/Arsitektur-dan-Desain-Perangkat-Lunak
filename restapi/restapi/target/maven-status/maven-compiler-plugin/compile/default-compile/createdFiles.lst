@@ -1,0 +1,5 @@
+com\springboot\restapi\controller\ProductController.class
+com\springboot\restapi\model\Product.class
+com\springboot\restapi\repository\ProductRepository.class
+com\springboot\restapi\RestapiApplication.class
+com\springboot\restapi\service\ProductService.class
