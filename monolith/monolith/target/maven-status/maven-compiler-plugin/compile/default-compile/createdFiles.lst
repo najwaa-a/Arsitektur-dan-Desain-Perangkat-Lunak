@@ -1,0 +1,9 @@
+com\app\monolith\Main.class
+com\app\monolith\model\User.class
+com\app\monolith\controller\ProductController.class
+com\app\monolith\controller\UserController.class
+com\app\monolith\model\Product.class
+com\app\monolith\repository\UserRepository.class
+com\app\monolith\service\UserService.class
+com\app\monolith\service\ProductService.class
+com\app\monolith\repository\ProductRepository.class
